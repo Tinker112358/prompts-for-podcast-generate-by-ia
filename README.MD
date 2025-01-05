@@ -1,6 +1,6 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
+<img
+    src="https://github.com/Tinker112358/prompts-for-podcast-generate-by-ia/blob/main/um%20shitzu%20femea%20de%20cor%20branca%20e%20caramelo%20com%20um%20filho%20de%20lobo%20brincando%20em%20um%20jardim%20gramado%20a%20uma%20dist%C3%A2ncia%20de%203%20metros%20(1).png"
     width="300"
 />
 </p>
